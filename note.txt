@@ -1,0 +1,5 @@
+先修改环境变量
+
+shift + 鼠标右键  可以选择打开CMD命令窗口（而且）不闪退
+
+打印中文字符，要在中文内容前加小写的 u ，保存时要save with encoding ——》 UTF-8 with BOM（在win7-32下的流程）
